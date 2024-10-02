@@ -1,26 +1,27 @@
-*{
-  padding:0;
-  margin:0;
-  box-sizing:border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none !important;
 }
 
 body {
-    background: #f4f4f4 !important;
-    font-family: Arial, sans-serif;
-    font-size: 15px;
+  background: #f4f4f4 !important;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
 }
 
-.yellow{
-  color:#ffd633;
+.yellow {
+  color: #ffd633;
 }
 
-.container2{
+.container2 {
   width: 1200px;
 }
 
-.objcover{
+.objcover {
   object-fit: cover;
 }
-.objposition{
+.objposition {
   object-position: 60%;
 }
